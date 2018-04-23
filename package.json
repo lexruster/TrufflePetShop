@@ -14,9 +14,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "lite-server": "^2.3.0"
-  },
-  "dependencies": {
+    "lite-server": "^2.3.0",
     "sol-merger": "^0.1.2"
-  }
+  },
+  "dependencies": {}
 }
